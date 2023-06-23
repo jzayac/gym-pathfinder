@@ -1,0 +1,9 @@
+
+command:
+ run server:
+   make run-server
+
+ stop server
+   make stop-server
+
+ 

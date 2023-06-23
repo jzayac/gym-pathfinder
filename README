@@ -1,0 +1,13 @@
+## commands to the server.
+  to run server:
+  ```make run-server```
+
+  to stop server:
+  ```make stop-server```
+
+  to run test:
+  ```make run-test```
+
+
+## enpoint handler
+main logic for endpoint is in ```src/search/service/search.service.ts```
